@@ -1,0 +1,54 @@
+C:\Users\brion\source\repos\simplelogin\simplelogin\bin\Debug\simplelogin.exe.config
+C:\Users\brion\source\repos\simplelogin\simplelogin\bin\Debug\simplelogin.exe
+C:\Users\brion\source\repos\simplelogin\simplelogin\bin\Debug\simplelogin.pdb
+C:\Users\brion\source\repos\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.AssemblyReference.cache
+C:\Users\brion\source\repos\simplelogin\simplelogin\obj\Debug\simplelogin.Form1.resources
+C:\Users\brion\source\repos\simplelogin\simplelogin\obj\Debug\simplelogin.Properties.Resources.resources
+C:\Users\brion\source\repos\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.GenerateResource.cache
+C:\Users\brion\source\repos\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.CoreCompileInputs.cache
+C:\Users\brion\source\repos\simplelogin\simplelogin\obj\Debug\simplelogin.exe
+C:\Users\brion\source\repos\simplelogin\simplelogin\obj\Debug\simplelogin.pdb
+C:\Users\brion\source\repos\simplelogin\simplelogin\obj\Debug\simplelogin.Menuform.resources
+C:\Users\brion\source\repos\simplelogin\simplelogin\obj\Debug\simplelogin.Uploadform.resources
+C:\Users\brion\source\repos\simplelogin\simplelogin\obj\Debug\simplelogin.SIGNUP.resources
+D:\simplelogin\simplelogin\bin\Debug\simplelogin.exe.config
+D:\simplelogin\simplelogin\bin\Debug\simplelogin.exe
+D:\simplelogin\simplelogin\bin\Debug\simplelogin.pdb
+D:\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.AssemblyReference.cache
+D:\simplelogin\simplelogin\obj\Debug\simplelogin.Form1.resources
+D:\simplelogin\simplelogin\obj\Debug\simplelogin.Uploadform.resources
+D:\simplelogin\simplelogin\obj\Debug\simplelogin.Menuform.resources
+D:\simplelogin\simplelogin\obj\Debug\simplelogin.Properties.Resources.resources
+D:\simplelogin\simplelogin\obj\Debug\simplelogin.SIGNUP.resources
+D:\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.GenerateResource.cache
+D:\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.CoreCompileInputs.cache
+D:\simplelogin\simplelogin\obj\Debug\simplelogin.exe
+D:\simplelogin\simplelogin\obj\Debug\simplelogin.pdb
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\bin\Debug\simplelogin.exe.config
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\bin\Debug\simplelogin.exe
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\bin\Debug\simplelogin.pdb
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\obj\Debug\simplelogin.Form1.resources
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\obj\Debug\simplelogin.Uploadform.resources
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\obj\Debug\simplelogin.Classform.resources
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\obj\Debug\simplelogin.Menuform.resources
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\obj\Debug\simplelogin.Properties.Resources.resources
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\obj\Debug\simplelogin.SIGNUP.resources
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\obj\Debug\simplelogin.exe
+C:\Users\User\Desktop\Inter Prog. WinForms\simplelogin\simplelogin\obj\Debug\simplelogin.pdb
+D:\Newlogin\simplelogin\simplelogin\bin\Debug\simplelogin.exe.config
+D:\Newlogin\simplelogin\simplelogin\bin\Debug\simplelogin.exe
+D:\Newlogin\simplelogin\simplelogin\bin\Debug\simplelogin.pdb
+D:\Newlogin\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.AssemblyReference.cache
+D:\Newlogin\simplelogin\simplelogin\obj\Debug\simplelogin.Form1.resources
+D:\Newlogin\simplelogin\simplelogin\obj\Debug\simplelogin.Uploadform.resources
+D:\Newlogin\simplelogin\simplelogin\obj\Debug\simplelogin.Classform.resources
+D:\Newlogin\simplelogin\simplelogin\obj\Debug\simplelogin.Menuform.resources
+D:\Newlogin\simplelogin\simplelogin\obj\Debug\simplelogin.Properties.Resources.resources
+D:\Newlogin\simplelogin\simplelogin\obj\Debug\simplelogin.SIGNUP.resources
+D:\Newlogin\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.GenerateResource.cache
+D:\Newlogin\simplelogin\simplelogin\obj\Debug\simplelogin.csproj.CoreCompileInputs.cache
+D:\Newlogin\simplelogin\simplelogin\obj\Debug\simplelogin.exe
+D:\Newlogin\simplelogin\simplelogin\obj\Debug\simplelogin.pdb
